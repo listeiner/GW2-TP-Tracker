@@ -1,6 +1,6 @@
 const baseItemsUrl = `https://api.guildwars2.com/v2/items`;
 const baseListingsUrl = `https://api.guildwars2.com/v2/commerce/listings`;
-const header = document.querySelector("th");
+const header = document.querySelector("#item");
 const itemType = document.querySelector("#item-type");
 const rarity = document.querySelector("#rarity");
 const value = document.querySelector("#value");

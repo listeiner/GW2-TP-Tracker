@@ -47,6 +47,17 @@ body {
     font-family: Courier;
     font-size: 30px;
   }
+
+  h3, h4, h5 {
+    color: #CACFD2;
+    font-family: Courier;
+    padding: 20px 20px 20px 20px;
+    margin: 0;
+  }
+  
+  p {
+    color: #AAB7B8 ;
+  }
   
   main {
     text-align: center;
@@ -116,3 +127,5 @@ body {
     padding-left: 20px;
     margin-top: auto;
   }
+
+  
